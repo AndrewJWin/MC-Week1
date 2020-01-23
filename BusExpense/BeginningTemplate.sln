@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusExpense", "BusExpense.csproj", "{8C8FE9F9-08EA-4052-9621-7D5E6AEB46C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkingCardHelper", "..\ParkingCardHelper\ParkingCardHelper.csproj", "{4FFE8DB1-3458-4CA3-9B65-923F30D6C5D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C8FE9F9-08EA-4052-9621-7D5E6AEB46C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C8FE9F9-08EA-4052-9621-7D5E6AEB46C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C8FE9F9-08EA-4052-9621-7D5E6AEB46C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C8FE9F9-08EA-4052-9621-7D5E6AEB46C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FFE8DB1-3458-4CA3-9B65-923F30D6C5D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FFE8DB1-3458-4CA3-9B65-923F30D6C5D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FFE8DB1-3458-4CA3-9B65-923F30D6C5D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FFE8DB1-3458-4CA3-9B65-923F30D6C5D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0FEBA51-A2BE-4E65-B083-4A8F1C63B7D3}
+	EndGlobalSection
+EndGlobal
